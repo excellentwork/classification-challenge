@@ -14,3 +14,6 @@ Create a logistic regression model.
 Create a random forest model.
 
 Evaluate the models.
+
+### Reference
+Hopkins, M., Reeber, E., Forman, G. & Suermondt, J. 1999. Spambase [Dataset]. UCI Machine Learning Repository. Available: https://archive.ics.uci.edu/dataset/94/spambaseLinks . [2023, April 28].
